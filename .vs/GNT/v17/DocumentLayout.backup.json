@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GNT-APP\\GNT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.server\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|solutionrelative:presentation\\gnt.web.server\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B7E679-1B92-4D1C-857F-7F3DBA61AC31}|Shared\\GNT.Domain\\GNT.Domain.csproj|d:\\gnt-app\\gnt\\shared\\gnt.domain\\models\\businessproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B7E679-1B92-4D1C-857F-7F3DBA61AC31}|Shared\\GNT.Domain\\GNT.Domain.csproj|solutionrelative:shared\\gnt.domain\\models\\businessproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|solutionrelative:presentation\\gnt.web.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.client\\application\\pages\\businessproducts\\components\\businessproductdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|solutionrelative:presentation\\gnt.web.client\\application\\pages\\businessproducts\\components\\businessproductdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B041A3-1493-4B44-8F85-98828E9BED53}|Shared\\GNT.Dtos\\GNT.Shared.csproj|d:\\gnt-app\\gnt\\shared\\gnt.dtos\\dtos\\roles\\managerolepermissionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B041A3-1493-4B44-8F85-98828E9BED53}|Shared\\GNT.Dtos\\GNT.Shared.csproj|solutionrelative:shared\\gnt.dtos\\dtos\\roles\\managerolepermissionsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|d:\\gnt-app\\gnt\\shared\\gnt.application\\roles\\queries\\rolelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|solutionrelative:shared\\gnt.application\\roles\\queries\\rolelistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.client\\application\\pages\\businessproducts\\businessproductlistpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|solutionrelative:presentation\\gnt.web.client\\application\\pages\\businessproducts\\businessproductlistpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.server\\controllers\\businessproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|solutionrelative:presentation\\gnt.web.server\\controllers\\businessproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|d:\\gnt-app\\gnt\\shared\\gnt.application\\businessproducts\\commands\\editbusinessproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|solutionrelative:shared\\gnt.application\\businessproducts\\commands\\editbusinessproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861354EF-CEDA-4039-BAA2-91287CA0BCCE}|Shared\\GNT.ExceptionHandling\\GNT.ExceptionHandling.csproj|d:\\gnt-app\\gnt\\shared\\gnt.exceptionhandling\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861354EF-CEDA-4039-BAA2-91287CA0BCCE}|Shared\\GNT.ExceptionHandling\\GNT.ExceptionHandling.csproj|solutionrelative:shared\\gnt.exceptionhandling\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|solutionrelative:presentation\\gnt.web.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.server\\config\\servicessetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|solutionrelative:presentation\\gnt.web.server\\config\\servicessetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.server\\gnt.web.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1A9F32C-CDDA-4F94-B7DA-7A0D1A7E55C8}|Presentation\\GNT.Web.Server\\GNT.Web.Server.csproj|solutionrelative:presentation\\gnt.web.server\\gnt.web.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B041A3-1493-4B44-8F85-98828E9BED53}|Shared\\GNT.Dtos\\GNT.Shared.csproj|d:\\gnt-app\\gnt\\shared\\gnt.dtos\\errors\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B041A3-1493-4B44-8F85-98828E9BED53}|Shared\\GNT.Dtos\\GNT.Shared.csproj|solutionrelative:shared\\gnt.dtos\\errors\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0B041A3-1493-4B44-8F85-98828E9BED53}|Shared\\GNT.Dtos\\GNT.Shared.csproj|d:\\gnt-app\\gnt\\shared\\gnt.dtos\\errors\\failurecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0B041A3-1493-4B44-8F85-98828E9BED53}|Shared\\GNT.Dtos\\GNT.Shared.csproj|solutionrelative:shared\\gnt.dtos\\errors\\failurecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEE7B2-AFBE-4A8A-A6EC-CD7B1C97ABD9}|Shared\\GNT.Common.Client\\GNT.Common.Client.csproj|d:\\gnt-app\\gnt\\shared\\gnt.common.client\\servicessetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21FEE7B2-AFBE-4A8A-A6EC-CD7B1C97ABD9}|Shared\\GNT.Common.Client\\GNT.Common.Client.csproj|solutionrelative:shared\\gnt.common.client\\servicessetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF76F23-9E9E-4665-BCD2-7189FB21CE0B}|Shared\\GNT.Common\\GNT.Common.csproj|d:\\gnt-app\\gnt\\shared\\gnt.common\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF76F23-9E9E-4665-BCD2-7189FB21CE0B}|Shared\\GNT.Common\\GNT.Common.csproj|solutionrelative:shared\\gnt.common\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF76F23-9E9E-4665-BCD2-7189FB21CE0B}|Shared\\GNT.Common\\GNT.Common.csproj|d:\\gnt-app\\gnt\\shared\\gnt.common\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF76F23-9E9E-4665-BCD2-7189FB21CE0B}|Shared\\GNT.Common\\GNT.Common.csproj|solutionrelative:shared\\gnt.common\\extensions\\datetimeextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|d:\\gnt-app\\gnt\\shared\\gnt.application\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|solutionrelative:shared\\gnt.application\\requesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|d:\\gnt-app\\gnt\\shared\\gnt.application\\account\\queries\\checksecuritycodequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|solutionrelative:shared\\gnt.application\\account\\queries\\checksecuritycodequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|d:\\gnt-app\\gnt\\shared\\gnt.application\\account\\commands\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2B0B01-99EF-48AE-89BF-D60A237610DB}|Shared\\GNT.Application\\GNT.Application.csproj|solutionrelative:shared\\gnt.application\\account\\commands\\changepasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BB18B6-0B71-488D-8DFB-740892079DC3}|Shared\\GNT.Infrastructure\\GNT.Infrastructure.csproj|d:\\gnt-app\\gnt\\shared\\gnt.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BB18B6-0B71-488D-8DFB-740892079DC3}|Shared\\GNT.Infrastructure\\GNT.Infrastructure.csproj|solutionrelative:shared\\gnt.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.client\\authentication\\pages\\resetpasswordrequest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|solutionrelative:presentation\\gnt.web.client\\authentication\\pages\\resetpasswordrequest.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.client\\authentication\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|solutionrelative:presentation\\gnt.web.client\\authentication\\pages\\resetpassword.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.client\\authentication\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|solutionrelative:presentation\\gnt.web.client\\authentication\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FEE7B2-AFBE-4A8A-A6EC-CD7B1C97ABD9}|Shared\\GNT.Common.Client\\GNT.Common.Client.csproj|d:\\gnt-app\\gnt\\shared\\gnt.common.client\\components\\selectlanguage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21FEE7B2-AFBE-4A8A-A6EC-CD7B1C97ABD9}|Shared\\GNT.Common.Client\\GNT.Common.Client.csproj|solutionrelative:shared\\gnt.common.client\\components\\selectlanguage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|d:\\gnt-app\\gnt\\presentation\\gnt.web.client\\authentication\\shared\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{15CF971D-FA9C-41B0-B8DC-DE680BE5056D}|Presentation\\GNT.Web.Client\\GNT.Web.Client.csproj|solutionrelative:presentation\\gnt.web.client\\authentication\\shared\\authenticationlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageRolePermissionsDto.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Dtos\\Dtos\\Roles\\ManageRolePermissionsDto.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Dtos\\Dtos\\Roles\\ManageRolePermissionsDto.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Dtos\\Dtos\\Roles\\ManageRolePermissionsDto.cs",
+              "RelativeToolTip": "Shared\\GNT.Dtos\\Dtos\\Roles\\ManageRolePermissionsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:45:28.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Server\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Presentation\\GNT.Web.Server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:13:58.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessProductDetails.razor",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\Components\\BusinessProductDetails.razor",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\Components\\BusinessProductDetails.razor",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\Components\\BusinessProductDetails.razor",
+              "RelativeToolTip": "Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\Components\\BusinessProductDetails.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T20:31:45.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessProduct.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Domain\\Models\\BusinessProduct.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Domain\\Models\\BusinessProduct.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Domain\\Models\\BusinessProduct.cs",
+              "RelativeToolTip": "Shared\\GNT.Domain\\Models\\BusinessProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:13:51.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Server\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Presentation\\GNT.Web.Server\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:09:30Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusinessProductController.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Controllers\\BusinessProductController.cs",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Server\\Controllers\\BusinessProductController.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Controllers\\BusinessProductController.cs",
+              "RelativeToolTip": "Presentation\\GNT.Web.Server\\Controllers\\BusinessProductController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:13:56.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EditBusinessProductCommand.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\BusinessProducts\\Commands\\EditBusinessProductCommand.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Application\\BusinessProducts\\Commands\\EditBusinessProductCommand.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\BusinessProducts\\Commands\\EditBusinessProductCommand.cs",
+              "RelativeToolTip": "Shared\\GNT.Application\\BusinessProducts\\Commands\\EditBusinessProductCommand.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T21:20:49.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoleListQuery.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\Roles\\Queries\\RoleListQuery.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Application\\Roles\\Queries\\RoleListQuery.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\Roles\\Queries\\RoleListQuery.cs",
+              "RelativeToolTip": "Shared\\GNT.Application\\Roles\\Queries\\RoleListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T22:09:33.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessProductListPage.razor",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\BusinessProductListPage.razor",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\BusinessProductListPage.razor",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\BusinessProductListPage.razor",
+              "RelativeToolTip": "Presentation\\GNT.Web.Client\\Application\\Pages\\BusinessProducts\\BusinessProductListPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T21:26:51.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GNT.Web.Server.http",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\GNT.Web.Server.http",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Server\\GNT.Web.Server.http",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\GNT.Web.Server.http",
+              "RelativeToolTip": "Presentation\\GNT.Web.Server\\GNT.Web.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-22T21:55:44.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServicesSetup.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Config\\ServicesSetup.cs",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Server\\Config\\ServicesSetup.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Config\\ServicesSetup.cs",
+              "RelativeToolTip": "Presentation\\GNT.Web.Server\\Config\\ServicesSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:42:24.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.ExceptionHandling\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.ExceptionHandling\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.ExceptionHandling\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "Shared\\GNT.ExceptionHandling\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:34:52.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Server\\Program.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Server\\Program.cs",
+              "RelativeToolTip": "Presentation\\GNT.Web.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:34:23.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Dtos\\Errors\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Dtos\\Errors\\ErrorResponse.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Dtos\\Errors\\ErrorResponse.cs",
+              "RelativeToolTip": "Shared\\GNT.Dtos\\Errors\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:34:13.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServicesSetup.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common.Client\\ServicesSetup.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Common.Client\\ServicesSetup.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common.Client\\ServicesSetup.cs",
+              "RelativeToolTip": "Shared\\GNT.Common.Client\\ServicesSetup.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:32:30.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Common\\Extensions\\StringExtensions.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "Shared\\GNT.Common\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:31:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DateTimeExtensions.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common\\Extensions\\DateTimeExtensions.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Common\\Extensions\\DateTimeExtensions.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common\\Extensions\\DateTimeExtensions.cs",
+              "RelativeToolTip": "Shared\\GNT.Common\\Extensions\\DateTimeExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:31:38.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RequestHandler.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\RequestHandler.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Application\\RequestHandler.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\RequestHandler.cs",
+              "RelativeToolTip": "Shared\\GNT.Application\\RequestHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:30:08.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CheckSecurityCodeQuery.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\Account\\Queries\\CheckSecurityCodeQuery.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Application\\Account\\Queries\\CheckSecurityCodeQuery.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\Account\\Queries\\CheckSecurityCodeQuery.cs",
+              "RelativeToolTip": "Shared\\GNT.Application\\Account\\Queries\\CheckSecurityCodeQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:29:37.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangePasswordCommand.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\Account\\Commands\\ChangePasswordCommand.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Application\\Account\\Commands\\ChangePasswordCommand.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Application\\Account\\Commands\\ChangePasswordCommand.cs",
+              "RelativeToolTip": "Shared\\GNT.Application\\Account\\Commands\\ChangePasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T21:29:30.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SelectLanguage.razor",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common.Client\\Components\\SelectLanguage.razor",
+              "RelativeDocumentMoniker": "Shared\\GNT.Common.Client\\Components\\SelectLanguage.razor",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Common.Client\\Components\\SelectLanguage.razor",
+              "RelativeToolTip": "Shared\\GNT.Common.Client\\Components\\SelectLanguage.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T20:43:37.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FailureCode.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Dtos\\Errors\\FailureCode.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Dtos\\Errors\\FailureCode.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Dtos\\Errors\\FailureCode.cs",
+              "RelativeToolTip": "Shared\\GNT.Dtos\\Errors\\FailureCode.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:35:06.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResetPasswordRequest.razor",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPasswordRequest.razor",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPasswordRequest.razor",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPasswordRequest.razor",
+              "RelativeToolTip": "Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPasswordRequest.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T21:15:45.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthenticationLayout.razor",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Shared\\AuthenticationLayout.razor",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Client\\Authentication\\Shared\\AuthenticationLayout.razor",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Shared\\AuthenticationLayout.razor",
+              "RelativeToolTip": "Presentation\\GNT.Web.Client\\Authentication\\Shared\\AuthenticationLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T20:43:08.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResetPassword.razor",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPassword.razor",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPassword.razor",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPassword.razor",
+              "RelativeToolTip": "Presentation\\GNT.Web.Client\\Authentication\\Pages\\ResetPassword.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T20:37:39.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Shared\\GNT.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Shared\\GNT.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Shared\\GNT.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Shared\\GNT.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAArwD4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T20:37:39.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Presentation\\GNT.Web.Client\\Authentication\\Pages\\Login.razor",
+              "ToolTip": "D:\\GNT-APP\\GNT\\Presentation\\GNT.Web.Client\\Authentication\\Pages\\Login.razor",
+              "RelativeToolTip": "Presentation\\GNT.Web.Client\\Authentication\\Pages\\Login.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T20:14:03.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
